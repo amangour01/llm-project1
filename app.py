@@ -1,3 +1,8 @@
+"""
+Copyright (c) 2025 Aman Gour
+This file is part of Your Project Name, released under the MIT License.
+"""
+
 import os
 import json
 import shutil
